@@ -6,7 +6,7 @@ The game is a simple first person 3D platformer. There isn't a goal in the game 
 
 I've always loved the idea of creating video games and 3D games have always caught my eye. This project is serving as a way for me to learn about Unity and game development as a whole. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=nYMevSeGurc&ab_channel=Damian%27sArchive)
 
 # Development Environment
 
@@ -22,6 +22,8 @@ For the game scripts, I used C#.
 
 # Future Work
 
+{Make a list of things that you need to fix, improve, and add in the future.}
 * First, I'd like to make it so that there is a winning message when you reach the highest possible point just so you can know that you won. 
 * I'd like to add the ability to sprint as well. That could be toggled on and off using a key.
 * I also need to shrink the player as well. The player can get stuck in between blocks because they're too big on the X and Y axis.
+ 
