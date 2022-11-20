@@ -22,7 +22,6 @@ For the game scripts, I used C#.
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
 * First, I'd like to make it so that there is a winning message when you reach the highest possible point just so you can know that you won. 
 * I'd like to add the ability to sprint as well. That could be toggled on and off using a key.
 * I also need to shrink the player as well. The player can get stuck in between blocks because they're too big on the X and Y axis.
